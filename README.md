@@ -13,7 +13,6 @@ var template = require('eco!./template.eco');
 
 You can also add the loader to your `webpack.config.js` file.
 ```js
-var webpack = require('webpack');
 module.exports = {
   module: {
     loaders: [
