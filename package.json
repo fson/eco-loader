@@ -1,0 +1,19 @@
+{
+  "name": "eco-loader",
+  "version": "0.1.0",
+  "description": "eco loader module for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fson/eco-loader.git"
+  },
+  "author": "Ville Immonen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fson/eco-loader/issues"
+  },
+  "homepage": "https://github.com/fson/eco-loader",
+  "dependencies": {
+    "eco": "~1.1.0-rc-3"
+  }
+}
